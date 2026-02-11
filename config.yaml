@@ -1,0 +1,8 @@
+# DIC MVP varsayilan ayarlari
+delta_t: 2.0
+subset_size: 31
+step: 10
+search_radius: 20
+min_score: 0.5
+use_subpixel: true
+strain_smoothing_sigma: 1.0
